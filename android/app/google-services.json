@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474326718520",
+    "project_id": "nutri-lens-mvp",
+    "storage_bucket": "nutri-lens-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474326718520:android:0ebca39243cccd775a2ecd",
+        "android_client_info": {
+          "package_name": "com.nutrilens.nutri_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoqyAAJn59wDxGwe-UgvpfPvkoKBOS34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

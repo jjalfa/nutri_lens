@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "nutri-lens-mvp",
+          "appId": "1:474326718520:android:0ebca39243cccd775a2ecd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "nutri-lens-mvp",
+          "configurations": {
+            "android": "1:474326718520:android:0ebca39243cccd775a2ecd",
+            "ios": "1:474326718520:ios:bcf128f310a716ca5a2ecd"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
